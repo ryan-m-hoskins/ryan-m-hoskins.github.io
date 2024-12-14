@@ -61,3 +61,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+sass:
+  sass_dir: _sass
+  style: compressed
