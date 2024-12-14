@@ -1,1 +1,34 @@
+---
+---
+@charset "utf-8";
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default'}}";
+@import "minimal-mistakes";
+
+.sidebar {
+  &__right {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 100%;
+  }
+}
+
+.author__avatar {
+  img {
+    max-width: 150px; 
+    border-radius: 50%;
+  }
+}
+
+.page__hero-overlay {
+  .page__excerpt {
+    color: #fff !important;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+  }
+}
+
+.page__hero-overlay {
+  &:before {
+    background: rgba(0,0,0,0.5);
