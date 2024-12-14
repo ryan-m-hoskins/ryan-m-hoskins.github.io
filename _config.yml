@@ -2,10 +2,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "mint" 
 
-sass:
-  sass_dir: _sass
-  style: compressed
-
 # Site Settings
 locale: "en-US"
 title: "Ryan Hoskins | CS-499 Portfolio"
@@ -16,13 +12,11 @@ description: "Portfolio showcasing my Computer Science Capstone project and skil
 url: "https://ryan-m-hoskins.github.io"
 repository: "ryan-m-hoskins/ryan-m-hoskins.github.io"
 
-
-
 # Site Author
 author:
   name: "Ryan Hoskins"
   avatar: "/assets/images/profile_image.jpg" 
-  bio: "CS Graduate | Mobile Development | Software Engineering"
+  bio: "Computer Science Graduate"
   location: "North Carolina"
   links:
     - label: "GitHub"
@@ -34,6 +28,10 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:rmhoskins193@gmail.com"
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # Site Footer
 footer:
