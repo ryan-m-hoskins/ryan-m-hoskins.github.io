@@ -10,12 +10,12 @@ excerpt: "Computer Science Student | Mobile Development | Software Engineering"
 
 # Welcome to my CS499 Computer Science Capstone Portfolio!
 
-Hello, I'm Ryan! I'm a Computer Science student with an Associate in Engineering degree and will soon have a Bachelors in Computer Science with a concentration in Software Engineering. This portfolio demonstrates the various soft skills, hard skills, and technical skills that I have developed over the course of the last four years, as shown in my capstone project. 
+Hello, I'm Ryan! I'm a Computer Science student with an Associate in Engineering degree and will soon have a Bachelor degree in Computer Science with a concentration in Software Engineering. This portfolio demonstrates the various soft skills, hard skills, and technical skills that I have developed over the course of the last four years, as shown in my capstone project. 
 
 ## Capstone Project: Weight Tracking Application
 
-My capstone project focused on revisting a previous project I completed and critically reviewing it, identifying issues and potential improvements, and implementing three key enhancements - each of a specific category. This project demonstrates a proficien:
-- Mobile application develop in Android Studio
+My capstone project focused on revisting a previous project I completed and critically reviewing it, identifying issues and potential improvements, and implementing three key enhancements - each of a specific category. This project demonstrates a proficiency for:
+- Mobile application development in Android Studio
 - Kotlin and Java programming
 - Database implementation with Room and Firebase
 - UI and UX Design
