@@ -30,4 +30,4 @@ This portfolio will provide a full walkthrough of the capstone project. In this,
 - Providing an overview of the capstone project
 - Diving into each of the three enhancements implemented to the project
 
-[View Self-Assessment](/self_assessment/) {: .btn .btn--primary}
+[View Self-Assessment](/self-assessment/){: .btn .btn--primary}
