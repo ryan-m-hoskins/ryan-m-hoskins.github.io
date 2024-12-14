@@ -15,7 +15,7 @@ repository: "ryan-m-hoskins/ryan-m-hoskins.github.io"
 # Site Author
 author:
   name: "Ryan Hoskins"
-  avatar: "/assets/images/profile_image.jpg" 
+  avatar: "/assets/images/profile_image.png" 
   bio: "Computer Science Graduate"
   location: "North Carolina"
   links:
