@@ -1,0 +1,63 @@
+# _config.yml
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "mint" 
+
+# Site Settings
+locale: "en-US"
+title: "Ryan Hoskins - CS Portfolio"
+title_separator: "|"
+subtitle: "Computer Science Capstone Portfolio"
+name: "Ryan"
+description: "Portfolio showcasing my Computer Science Capstone project and skills"
+url: "https://ryan-m-hoskins.github.io"
+repository: "ryan-m-hoskins/ryan-m-hoskins.github.io"
+
+# Site Author
+author:
+  name: "Ryan Hoskins"
+  avatar: "/assets/images/bio-photo.jpg" # Will add profile pic later, just placeholder
+  bio: "Computer Science Graduate | Mobile Development | Software Engineering"
+  location: "North Carolina"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ryan-m-hoskins"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ryan-m-hoskins/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:rmhoskins193@gmail.com"
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ryan-m-hoskins"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ryan-m-hoskins/"
+      
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+
+# Reading Files
+include:
+  - _pages
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
