@@ -54,6 +54,10 @@ defaults:
 include:
   - _pages
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -62,6 +66,4 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-sass:
-  sass_dir: _sass
-  style: compressed
+
