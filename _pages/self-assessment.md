@@ -22,7 +22,7 @@ My name is Ryan Hoskins and I am a passionate and dedicated Software Developer t
 ### Collaborating In Team Environments
 Software development often heavily relies on collaborating in a team environment, whether that means through workflows, general communication, or taking feedback into consideration. Throughout my time in this degree and professional career, I have been required to embrace working in a collaborative environment. This can be seen especially in my general work. I often have to collaborate with other Engineers in our company to help identify, document and escalate severity issues, but this is also a common practice when I am developing documentation for other departments to use. I am responsible for drafting and polishing much of the training material used internally for various workflows, but I have also done the same for user-facing documentation. This is also a common practice in my academic career, as I have needed to gather feedback on a project I’m working on to ensure requirements are met or for designing the User Interface of a system. An example of this can be seen in my work from CS-319. 
 
-  <a href="https://github.com/yourusername/CS319" class="btn btn--primary btn--large">CS-319 Project Repository <i class="fab fa-github"></i></a>
+  <a href="https://github.com/ryan-m-hoskins/CS319" class="btn btn--primary btn--large">CS-319 Project Repository <i class="fab fa-github"></i></a>
   
 ### Communicating With Stakeholders 
 The ability to communicate the relevant stakeholders is an essential skill to have. Communicating technical concepts to a non-technical audience is an ever-present need, especially in the Computer Science field. This is something I have to do on an almost daily basis with clients and users, but is also something I have needed to do all throughout my academic career. I’m particularly thorough and detail-oriented, which are both characteristics that can be seen in my work. In CS-465, the full-stack development course, I was tasked with creating a technically sound and accurate UML diagram of the Single Page Application we would be developing using Angular. 
@@ -32,7 +32,7 @@ The ability to communicate the relevant stakeholders is an essential skill to ha
 
 I’ve also been tasked with developing a simple and easy-to-understand presentation that summaries a Security Policy Report I created for a client in CS-405. In this, I had to be brief and avoid being overly technical to ensure the message and core concepts were accurately communicated. 
 
-  <a href="https://github.com/yourusername/CS405" class="btn btn--primary btn--large">CS-405 Security Policy Report <i class="fab fa-github"></i></a>
+  <a href="https://github.com/ryan-m-hoskins/CS405" class="btn btn--primary btn--large">CS-405 Security Policy Report <i class="fab fa-github"></i></a>
 
 ### Data Structures and Algorithms
 The choice of what sort of data structure is used or what algorithm is employed can have a profound impact on the performance of a program. Determining the appropriate solution can also rely on carefully managing trade-offs in design choices. This is a decision I encountered often in my experience in the Computer Science program and especially in the enhancements I implemented in the Capstone project. The data structures and algorithms enhancement I made showcases my ability to optimize a system’s performance. I implemented sorting functionality in the mobile application’s RecyclerView to ensure the weight records displayed are organized based on date. This required that I use Kotlin’s sortByDescending function:
@@ -67,6 +67,6 @@ The importance of security and user privacy in the field of computer science con
 
   Additionally, I utilized defensive programming to validate user inputs that also handles edge cases. This ensures the application functions as intended and edge cases are addressed. 
 
-  <a href="https://github.com/yourusername/CS499" class="btn btn--primary btn--large">Capstone Project Repository <i class="fab fa-github"></i></a>
+  <a href="https://github.com/ryan-m-hoskins/CS499_WTA/blob/cs499_v2.4/app/src/main/java/com/example/cs499_app/BottomSheetEditWeight.kt" class="btn btn--primary btn--large">Capstone Project Repository <i class="fab fa-github"></i></a>
   
 
