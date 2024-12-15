@@ -34,3 +34,63 @@
     background: rgba(0,0,0,0.5);
   }
 }
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  margin: 2rem 0;
+  height: 0;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.enhancement-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 3rem 0;
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+  text-decoration: none !important;
+  color: inherit;
+  
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .card-content {
+    padding: 2rem;
+    text-align: center;
+    i {
+      color: #0092ca;
+      margin: 1rem 0;
+    }
+    h3 {
+      margin: 1rem 0;
+      color: #333;
+    }
+    p {
+      color: #666;
+      margin-bottom: 1.5rem;
+    }
+    .learn-more {
+      color: #0092ca;
+      font-weight: 500;
+    }
+  }
+}
