@@ -32,7 +32,7 @@ The ability to communicate the relevant stakeholders is an essential skill to ha
 
 I’ve also been tasked with developing a simple and easy-to-understand presentation that summaries a Security Policy Report I created for a client in CS-405. In this, I had to be brief and avoid being overly technical to ensure the message and core concepts were accurately communicated. 
 
-  <a href="https://github.com/ryan-m-hoskins/CS405" class="btn btn--primary btn--large">CS-405 Security Policy Report <i class="fab fa-github"></i></a>
+  <a href="https://github.com/ryan-m-hoskins/CS405/blob/main/Hoskins_CS405_Mod7_Project2.pptx" class="btn btn--primary btn--large">CS-405 Security Policy Report <i class="fab fa-github"></i></a>
 
 ### Data Structures and Algorithms
 The choice of what sort of data structure is used or what algorithm is employed can have a profound impact on the performance of a program. Determining the appropriate solution can also rely on carefully managing trade-offs in design choices. This is a decision I encountered often in my experience in the Computer Science program and especially in the enhancements I implemented in the Capstone project. The data structures and algorithms enhancement I made showcases my ability to optimize a system’s performance. I implemented sorting functionality in the mobile application’s RecyclerView to ensure the weight records displayed are organized based on date. This required that I use Kotlin’s sortByDescending function:
