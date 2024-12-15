@@ -51,7 +51,6 @@ This video provides a thorough code review of my original project selected as my
             <span class="learn-more">Learn More →</span>
         </div>
     </a>
-
     <a href="/enhancements#algorithms" class="card">
         <div class="card-content">
             <h3>Algorithms & Data Structure</h3>
@@ -60,7 +59,6 @@ This video provides a thorough code review of my original project selected as my
             <span class="learn-more">Learn More →</span>
         </div>
     </a>
-
     <a href="/enhancements#database" class="card">
         <div class="card-content">
             <h3>Database</h3>
