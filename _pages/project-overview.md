@@ -30,7 +30,7 @@ This video provides a thorough code review of my original project selected as my
 
 <div class="video-container">
   <iframe 
-    width="100%" 
+    width="560" 
     height="315" 
     src="https://www.youtube.com/embed/G5xlPHrt3JQ"
     title="YouTube video player"
