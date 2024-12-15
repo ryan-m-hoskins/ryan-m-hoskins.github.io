@@ -18,5 +18,5 @@ My name is Ryan Hoskins and I am a passionate and dedicated Software Developer t
 ## Educational Journey and Professional Growth
 
 
-![Course Outcomes](/assets/images/course_outcomes.png){: .full}
+![Course Outcomes](/assets/images/course_outcome.png){: .full}
 
