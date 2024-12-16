@@ -27,7 +27,7 @@ Software development often heavily relies on collaborating in a team environment
 ### Communicating With Stakeholders 
 The ability to communicate the relevant stakeholders is an essential skill to have. Communicating technical concepts to a non-technical audience is an ever-present need, especially in the Computer Science field. This is something I have to do on an almost daily basis with clients and users, but is also something I have needed to do all throughout my academic career. I’m particularly thorough and detail-oriented, which are both characteristics that can be seen in my work. In CS-465, the full-stack development course, I was tasked with creating a technically sound and accurate UML diagram of the Single Page Application we would be developing using Angular. 
 
-![Travlr UML Diagram](/assets/images/travlr_UML.png){: .align-center}
+![Travlr UML Diagram](/assets/images/Travlr_UML.png){: .align-center}
 *Full-stack application architecture diagram created in CS-465*{: .text-center}
 
 I’ve also been tasked with developing a simple and easy-to-understand presentation that summaries a Security Policy Report I created for a client in CS-405. In this, I had to be brief and avoid being overly technical to ensure the message and core concepts were accurately communicated. 
