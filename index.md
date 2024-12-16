@@ -5,7 +5,6 @@ header:
   overlay_image: /assets/images/banner_dark_blue.jpg
   overlay_filter: 0.5
   caption: "Photo attribution: [**Vecteezy**](https://www.vecteezy.com/free-vector/polygon-gradient)"
-excerpt: "Computer Science Student | Mobile Development | Software Engineering"
 ---
 
 # Welcome to my CS499 Computer Science Capstone Portfolio!
