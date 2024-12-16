@@ -1,16 +1,17 @@
 # _data/navigation.yml
 main:
   - title: "About"
-    url: /about/
+    url: /main/
   - title: "Self Assessment"
     url: /self-assessment/
   - title: "Project Overview"
     url: /project-overview/
   - title: "Enhancements"
+    url: /enhancements/
     children:
       - title: "Software Design"
-        url: /enhancement-1/
+        url: /#software-design/
       - title: "Algorithms & Data Structure"
-        url: /enhancement-2/
+        url: /#algorithms/
       - title: "Database"
-        url: /enhancement-3/
+        url: /#database/
