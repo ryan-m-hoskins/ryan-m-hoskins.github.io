@@ -23,7 +23,7 @@ The core of the Capstone Project involved revisiting a previous project that was
 
 The specific method or approach to implementing these enhancements were open to the developer to decide. Each enhancement listed will provide a summary of some of the major changes made, a narrative explaining the thought-process, specific changes, and obstacles encountered, as well as some examples showcasing the implementation. 
 
-## Software Design
+## Software Design & Engineering {#software-design}
 
 This category intended to focus on improving an existing software, refactoring an existing project to another language, or expanding on the original project's complexity. My approach to resolving this category included:
 - Converting the original project from Java to Kotlin
@@ -95,7 +95,7 @@ Part of the development process involved getting feedback from my instructor and
 
 Every process involving user input involves carefully validating their input, providing error message (which can be seen in the project demonstration video), and incorporating data visualization through the Analytics tab of the app. 
 
-## Data Structures and Algorithms
+## Data Structures and Algorithms {#algorithms}
 
 This category intended to focus on improving the efficiency of a software or expanding on the complexity of an existing data structure of algorithm. My approach to resolving this category included: 
 - Integration of MPAndroidChart for data visualization
@@ -178,8 +178,8 @@ Some of the feedback my instructor provided regarding this criteria includes:
 - Could benefit from more extensive comments explaining the data structure choices
 
 These recommendations were addressed when I implemented the comments seen in the above code and in the source code, as well as in the ways in which the application will catch and provide any errors that take place. These errors are provided to the user in the form of a Toast text. 
-
-## Database
+ 
+## Database {#database}
 This category intended to focus on adding adding more complex data concepts, data mining, or migrating from one form of a database to another. My approach to resolving this category included: 
 - Migrating from Room to Firebase Realtime Database and Firebase Auth
 - Implementing a cloud-based solution for data persistence across any devices
