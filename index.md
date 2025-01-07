@@ -7,7 +7,7 @@ header:
   caption: "Photo attribution: [**Vecteezy**](https://www.vecteezy.com/free-vector/polygon-gradient)"
 ---
 
-# Welcome to my CS499 Computer Science Capstone Portfolio!
+# Ryan Hoskins
 
 Hello, I'm Ryan! I'm a Computer Science student with an Associate in Engineering degree and will soon have a Bachelor degree in Computer Science with a concentration in Software Engineering. This portfolio demonstrates the various soft skills, hard skills, and technical skills that I have developed over the course of the last four years, as shown in my capstone project. 
 
